@@ -1,5 +1,7 @@
-Future Ready Talent Microsfot Internship
+Future Ready Talent Microsoft Internship.
 
-InfoSec Awarness
+InfoSec Awarness.
 
-Your Cyber Security Instructor
+Your Cyber Security Instructor(CyberSecBot).
+
+Be Cyber Safe and Cyber Smart by asking questions to CyberSecBot.
