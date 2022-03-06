@@ -2,8 +2,6 @@ InfoSec Awarness
 
 I have created CyberSecBot for answering all your questions related to InfoSec(Information Security). Because nowadays, online frauds are increasing more and more. I want to aware/educate people while they are online. Be Cyber Safe and Cyber Smart by reveling dark truth of the online scams/frauds.
 
-Feel free to view: https://frtinfosecsite.z29.web.core.windows.net/
-
 ![image](https://user-images.githubusercontent.com/56876632/156910613-35e4fbd1-2a15-4aac-a72b-50837332acd8.png)
 
 ![image](https://user-images.githubusercontent.com/56876632/156910652-49bb2f1a-b54c-483c-92e3-99daf8eb370b.png)
